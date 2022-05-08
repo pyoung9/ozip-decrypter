@@ -15,7 +15,7 @@ on:
 
 env:
   FIRMWARE_LINK: https://assorted.downloads.oppo.com/firmware/CPH2179/CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj.ozip
-  FIRMWARE_NAME: CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj
+  FIRMWARE_NAME: CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj.ozip
   FIRMWARE_ZIP_NAME: CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj
   TZ: Asia/Kolkata
 
