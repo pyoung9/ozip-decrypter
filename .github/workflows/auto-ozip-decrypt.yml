@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://www.mediafire.com/file/u1rbfyx2eyyj5rj/CPH2185PU_11_A.39_220308_e044de3f_GsmMafia.Com.zip/file
-  FIRMWARE_NAME: CPH2185PU_11_A.39_220308_e044de3f.ozip
-  FIRMWARE_ZIP_NAME: CPH2185PU_11_A.39_220308_e044de3f
+  FIRMWARE_LINK: https://assorted.downloads.oppo.com/firmware/CPH2179/CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj.ozip
+  FIRMWARE_NAME: CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj
+  FIRMWARE_ZIP_NAME: CPH2179PU_11_OTA_0390_all_qCoOiKDPVrIj
   TZ: Asia/Kolkata
 
 jobs:
