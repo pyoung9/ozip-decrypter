@@ -50,7 +50,7 @@ jobs:
               expect \"yes/no\"
               send \"yes\r\"
               expect \"Password\"        
-              send \"${{ secrets.iSwed@42000 }}\r\"
+              send \"${{ secrets.iSwed420000 }}\r\"
               expect \"sftp> \"
               send \"cd ${{ secrets.https://sourceforge.net/u/pyoung9/profile/ }}\r\"
               set timeout -1
